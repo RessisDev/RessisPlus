@@ -6,8 +6,7 @@
 ---
 
 ## 📸 Demo  
-![Demo GIF or Image](https://ressis.net/ressis-plus)  
-_A quick gif/image showcasing the main feature of your project._  
+![Demo GIF or Image](https://www.ressis.net/wp-content/uploads/2024/07/laptop-ressisplus-monitor.png)  
 
 ---
 
